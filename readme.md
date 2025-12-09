@@ -21,8 +21,8 @@ O curso abrange diversas areas da computacao, como desenvolvimento de software, 
 | 2   | [Trab. Interdisciplinar II: Back-end](https://github.com/giusfds/TI-II)                                                           | Algoritmos e Estruturas de Dados II (CO), ES1 (CO) | TI2     | ✔     |
 | 3   | [`Algoritmos e Estruturas de Dados III`](https://github.com/giusfds/AEDS-III)                                                     | Algoritmos e Estruturas de Dados II, TI2           | `AEDs3` | ✔     |
 | 3   | [`Arquitetura de Computadores II`](https://github.com/giusfds/ACII)                                                               | Arquitetura de Computadores I                      | `AC2`   | ✔     |
-| 3   | Banco de Dados                                                                                                                    | Algoritmos e Estruturas de Dados II, TI2           | BD      | ✔     |
-| 3   | Cálculo II                                                                                                                        | Cálculo I                                          | C2      | 📍    |
+| 3   | [Banco de Dados](https://github.com/giusfds/BD)                                                                                   | Algoritmos e Estruturas de Dados II, TI2           | BD      | ✔     |
+| 3   | Cálculo II                                                                                                                        | Cálculo I                                          | C2      | ❌    |
 | 3   | [Linguagens de Programação](https://github.com/giusfds/Computacao-PucMinas/tree/main/3°_Periodo/LP)                               | Algoritmos e Estruturas de Dados II                | LP      | ✔     |
 | 3   | [Trab. Interdisciplinar III: Pesquisa Aplicada](https://github.com/giusfds/TI-III)                                                | Algoritmos e Estruturas de Dados II (CO)           | TI3     | ✔     |
 | 4   | [Estatística e Probabilidade](https://github.com/giusfds/Computacao-PucMinas/tree/main/4°_Periodo/EP)                             | Cálculo I                                          | EP      | ❌    |
@@ -39,7 +39,7 @@ O curso abrange diversas areas da computacao, como desenvolvimento de software, 
 | 5   | [`Redes de Computadores I`](https://github.com/giusfds/Redes-1)                                                                   | TGC                                                | `R1`    | ✔     |
 | 5   | [Sistemas Operacionais](https://github.com/giusfds/so)                                                                            | AEDs II, AC II                                     | SO      | ✔     |
 | 5   | Trab. Interdisciplinar V: Sist. Computacionais                                                                                    | R1 (CO), AC3 (CO), SO (CO)                         | TI5     | ✔     |
-| 6   | Computação Distribuída                                                                                                            | Redes de Computadores I                            | CD      | 📍    |
+| 6   | Computação Distribuída                                                                                                            | Redes de Computadores I                            | CD      | ❌    |
 | 6   | Computação Paralela                                                                                                               | AEDs III, AC3                                      | CP      | ❌    |
 | 6   | Cultura Religiosa: Pessoa e Sociedade                                                                                             | ---                                                | CR:PS   | ✔     |
 | 6   | `Fundamentos Teóricos da Computação`                                                                                              | TGC                                                | `FTC`   | ❌    |
@@ -67,7 +67,7 @@ O curso abrange diversas areas da computacao, como desenvolvimento de software, 
 > - ✔ : Feito
 > - 📍 : Em andamento
 > - ❌: Não feito
-> - Feitas: **22 materias**
-> - Falta fazer: **24 materias**
+> - Feitas: **27 materias**
+> - Falta fazer: **26 materias**
 
 Tendo em vista as materias destacadas, chamamos isso de arvore principal do curso, ou seja, as materias que vc precisa passar para obrigatoriamente progredir no curso. Essas possuem um repositorio dedicado as nao destacadas, eu gosto de nomealar "Materias Secundarias" onde as mesmas nao precisam de um repositorio dedicado a elas, assim, eu as coloco em um unico repositorio, que e esse.
