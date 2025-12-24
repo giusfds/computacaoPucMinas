@@ -1,8 +1,8 @@
 # Materias do Curso de Ciencia da Computacao da PUC Minas
 
-O curso abrange diversas areas da computacao, como desenvolvimento de software, redes de computadores, inteligencia artificial, entre outras. Alem disso, o curso tambem aborda areas de matematica, como calculo, algebra linear, geometria analitica, entre outras. A seguir, temos a grade do curso de ciencia da computacao da PUC Minas, com as materias que eu ja fiz, e as que ainda faltam fazer,
+Curriculo de materias de Ciência da Computação Puc Minas 
 
-> Esse curriculo e o 3814 destinado ao curso de Ciencia da Computaçao na puc minas
+> Curriculo 3814
 
 | Per | Disciplina                                                                                                                        | Pré-Requisito / Co-requisito                       | ID      | Feito |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------| -------------------------------------------------- | ------- | ----- |
@@ -16,7 +16,7 @@ O curso abrange diversas areas da computacao, como desenvolvimento de software, 
 | 2   | [`Algoritmos e Estruturas de Dados II`](https://github.com/giusfds/AEDS-II)                                                       | Algoritmos e Estruturas de Dados I                 | `AEDs2` | ✔     |
 | 2   | [`Arquitetura de Computadores I`](https://github.com/giusfds/ACI)                                                                 | Algoritmos e Estruturas de Dados I                 | `AC1`   | ✔     |
 | 2   | Cultura Religiosa: Fenômeno Religioso                                                                                             | ---                                                | CR:FR   | ✔     |
-| 2   | Engenharia de Software I                                                                                                          | Algoritmos e Estruturas de Dados II (CO)           | ES1     | ❌    |
+| 2   | Engenharia de Software I                                                                                                          | Algoritmos e Estruturas de Dados II (CO)           | ES1     | 📍    |
 | 2   | [Optativa I](https://github.com/giusfds/Computacao-PucMinas/tree/main/2°_Periodo/Sistemas_Inteligentes)                           | ---                                                | O1      | ✔     |
 | 2   | [Trab. Interdisciplinar II: Back-end](https://github.com/giusfds/TI-II)                                                           | Algoritmos e Estruturas de Dados II (CO), ES1 (CO) | TI2     | ✔     |
 | 3   | [`Algoritmos e Estruturas de Dados III`](https://github.com/giusfds/AEDS-III)                                                     | Algoritmos e Estruturas de Dados II, TI2           | `AEDs3` | ✔     |
@@ -24,28 +24,28 @@ O curso abrange diversas areas da computacao, como desenvolvimento de software, 
 | 3   | [Banco de Dados](https://github.com/giusfds/BD)                                                                                   | Algoritmos e Estruturas de Dados II, TI2           | BD      | ✔     |
 | 3   | Cálculo II                                                                                                                        | Cálculo I                                          | C2      | ❌    |
 | 3   | [Linguagens de Programação](https://github.com/giusfds/Computacao-PucMinas/tree/main/3°_Periodo/LP)                               | Algoritmos e Estruturas de Dados II                | LP      | ✔     |
-| 3   | [Trab. Interdisciplinar III: Pesquisa Aplicada](https://github.com/giusfds/TI-III)                                                | Algoritmos e Estruturas de Dados II (CO)           | TI3     | ✔     |
+| 3   | Trab. Interdisciplinar III: Pesquisa Aplicada                                                                                     | Algoritmos e Estruturas de Dados II (CO)           | TI3     | ✔     |
 | 4   | [Estatística e Probabilidade](https://github.com/giusfds/Computacao-PucMinas/tree/main/4°_Periodo/EP)                             | Cálculo I                                          | EP      | ❌    |
 | 4   | [Inteligência Artificial](https://github.com/giusfds/IA)                                                                          | Estatística e Probabilidade (CO), TGC (CO)         | IA      | ✔     |
 | 4   | [Lab. de Desenvol. para Dispositivos Móveis](https://github.com/giusfds/LDDM)                                                     | Algoritmos e Estruturas de Dados II                | LDDM    | ✔     |
 | 4   | Modelagem e Avaliação de Desempenho                                                                                               | EP (CO), TGC (CO)                                  | MAD     | ✔     |
-| 4   | Optativa II                                                                                                                       | ---                                                | O2      | ❌    |
+| 4   | Optativa II                                                                                                                       | ---                                                | O2      | 📍    |
 | 4   | [`Teoria dos Grafos e Computabilidade`](https://github.com/giusfds/Grafos)                                                        | Algoritmos e Estruturas de Dados II                | `TGC`   | ✔     |
-| 4   | [Trab. Interdisciplinar IV: Aplicações Móveis](https://github.com/giusfds/TI-IV)                                                  | IA (CO), LDDM (CO)                                 | TI4     | ✔     |
-| 5   | [Arquitetura de Computadores III](https://github.com/giusfds/tomasuloAlgorithm)                                                   | Arquitetura de Computadores II                     | AC3     | 📍    |
+| 4   | Trab. Interdisciplinar IV: Aplicações Móveis                                                                                      | IA (CO), LDDM (CO)                                 | TI4     | ✔     |
+| 5   | [Arquitetura de Computadores III](https://github.com/giusfds/tomasuloAlgorithm)                                                   | Arquitetura de Computadores II                     | AC3     | ✔     |
 | 5   | [Engenharia de Software II](https://github.com/giusfds/libShow)                                                                   | Engenharia de Software I                           | ES2     | ✔     |
 | 5   | Optativa III                                                                                                                      | ---                                                | O3      | ❌    |
-| 5   | `Projeto e Análise de Algoritmos`                                                                                                 | TGC, EP (CO)                                       | `PAA`   | 📍    |
+| 5   | `Projeto e Análise de Algoritmos`                                                                                                 | TGC, EP (CO)                                       | `PAA`   | ✔     |
 | 5   | [`Redes de Computadores I`](https://github.com/giusfds/Redes-1)                                                                   | TGC                                                | `R1`    | ✔     |
 | 5   | [Sistemas Operacionais](https://github.com/giusfds/so)                                                                            | AEDs II, AC II                                     | SO      | ✔     |
 | 5   | Trab. Interdisciplinar V: Sist. Computacionais                                                                                    | R1 (CO), AC3 (CO), SO (CO)                         | TI5     | ✔     |
-| 6   | Computação Distribuída                                                                                                            | Redes de Computadores I                            | CD      | ❌    |
-| 6   | Computação Paralela                                                                                                               | AEDs III, AC3                                      | CP      | ❌    |
+| 6   | Computação Distribuída                                                                                                            | Redes de Computadores I                            | CD      | 📍    |
+| 6   | Computação Paralela                                                                                                               | AEDs III, AC3                                      | CP      | 📍    |
 | 6   | Cultura Religiosa: Pessoa e Sociedade                                                                                             | ---                                                | CR:PS   | ✔     |
-| 6   | `Fundamentos Teóricos da Computação`                                                                                              | TGC                                                | `FTC`   | ❌    |
-| 6   | `Geometria Analítica e Álgebra Linear`                                                                                            | ---                                                | `GAAL`  | ❌    |
-| 6   | Processamento e Análise de Imagens                                                                                                | PAA (CO)                                           | PAI     | ❌    |
-| 6   | Trab. Interdisciplinar VI: Sist. Paral. e Distrib.                                                                                | CP (CO), CD (CO)                                   | TI6     | ❌    |
+| 6   | `Fundamentos Teóricos da Computação`                                                                                              | TGC                                                | `FTC`   | 📍    |
+| 6   | `Geometria Analítica e Álgebra Linear`                                                                                            | ---                                                | `GAAL`  | 📍    |
+| 6   | Processamento e Análise de Imagens                                                                                                | PAA (CO)                                           | PAI     | 📍    |
+| 6   | Trab. Interdisciplinar VI: Sist. Paral. e Distrib.                                                                                | CP (CO), CD (CO)                                   | TI6     | 📍    |
 | 7   | Compiladores                                                                                                                      | FTC, AC II                                         | COMP    | ❌    |
 | 7   | Computação Gráfica                                                                                                                | AEDs II, GAAL                                      | CG      | ❌    |
 | 7   | Filosofia: Antropologia e Ética                                                                                                   | ---                                                | F:AE    | ❌    |
@@ -64,10 +64,8 @@ O curso abrange diversas areas da computacao, como desenvolvimento de software, 
 
 > ### Legenda:
 >
-> - ✔ : Feito
+> - ✔  : Feito
 > - 📍 : Em andamento
-> - ❌: Não feito
-> - Feitas: **27 materias**
-> - Falta fazer: **26 materias**
-
-Tendo em vista as materias destacadas, chamamos isso de arvore principal do curso, ou seja, as materias que vc precisa passar para obrigatoriamente progredir no curso. Essas possuem um repositorio dedicado as nao destacadas, eu gosto de nomealar "Materias Secundarias" onde as mesmas nao precisam de um repositorio dedicado a elas, assim, eu as coloco em um unico repositorio, que e esse.
+> - ❌ : Não feito
+> - Feitas:      **28 materias**
+> - Falta fazer: **18 materias**
