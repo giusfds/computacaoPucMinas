@@ -1,4 +1,4 @@
-# Materias do Curso de Ciencia da Computacao da PUC Minas
+# Materias do Curso de Ciência da Computação
 
 Curriculo de materias de Ciência da Computação Puc Minas 
 
